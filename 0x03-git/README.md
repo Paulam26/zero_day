@@ -1,2 +1,2 @@
 # zero_day
-This is my first repository as a full-stack engineer
+I have completed the Git Challenge on the Intranet of Holberton
